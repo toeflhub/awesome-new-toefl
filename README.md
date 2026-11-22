@@ -15,6 +15,10 @@ A curated list of resources for the **2026 TOEFL iBT** — the redesigned test w
 - [ToeflHub — Mock Exam](https://toeflhub.com/tools/mock-exam) — 68 full mock tests for the 2026 TOEFL iBT, 5,000+ questions, all 11 new task types, adaptive Reading/Listening, AI scoring for Writing/Speaking. Register for 1 free set; follow the WeChat official account for 2 more (3 free sets total). *(by ToeflHub)*
 - [TST Prep](https://www.tstprep.com) — TOEFL preparation courses, video lessons, and practice tests.
 - [Magoosh TOEFL](https://magoosh.com/toefl/) — Online TOEFL prep with video lessons and practice questions.
+- [TOEFL Resources](https://toeflresources.com) — Free TOEFL lessons, templates, and practice materials.
+- [NoteFull](https://notefull.com) — TOEFL preparation focused on Speaking and Writing, with scored practice.
+- [BestMyTest](https://www.bestmytest.com/toefl) — Online TOEFL prep with practice tests and video lessons.
+- [Kaplan TOEFL](https://www.kaptest.com/toefl) — TOEFL prep courses and practice tests from Kaplan.
 
 ## Score Tools
 
