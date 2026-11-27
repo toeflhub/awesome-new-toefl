@@ -10,6 +10,10 @@ A curated list of resources for the **2026 TOEFL iBT** — the redesigned test w
 - [Understanding your TOEFL scores — ETS](https://www.ets.org/toefl/test-takers/ibt/scores/understand-scores.html) — The official 1–6 scale and score conversion table.
 - [TOEFL TestReady — ETS](https://testready.ets.org) — ETS's official free prep portal with practice tests and personalized study plans.
 
+## Study plans
+
+- [OpenExam Hub](https://openexamhub.org) — Free study planner that turns official TOEFL iBT materials into a day-by-day plan. Fully free; a free account is required to generate a plan. No affiliation with ToeflHub or ETS.
+
 ## Mock Tests & Practice
 
 - [ToeflHub — Mock Exam](https://toeflhub.com/tools/mock-exam) — 68 full mock tests for the 2026 TOEFL iBT, 5,000+ questions, all 11 new task types, adaptive Reading/Listening, AI scoring for Writing/Speaking. Register for 1 free set; follow the WeChat official account for 2 more (3 free sets total). *(by ToeflHub)*
